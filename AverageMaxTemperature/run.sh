@@ -1,3 +1,3 @@
 #!/bin/bash
-hadoop jar avg.jar AvgMaxTemp nsw_temp.csv $1
+hadoop jar avt.jar AvgMaxTemp nsw_temp.csv $1
 
